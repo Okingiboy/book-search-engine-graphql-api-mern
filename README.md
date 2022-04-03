@@ -1,5 +1,4 @@
-# Book Search Engine Starter Code
-[![License: MIT](https://img.shields.io/github/license/CailinBellWold/Book-Search-Engine?style=plastic)](https://opensource.org/licenses/MIT)
+# book-search-engine-graphql-api-mern
 
 ## Description
 
