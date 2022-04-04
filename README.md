@@ -19,7 +19,7 @@ Task to be completed:
 - [Technologies Used](#Technologies)
 - [Screenshot](#Screen) 
 - [Deployed Application](#Deployed)
-- [License](#Original)
+- [Copy Right](#Original)
 - [Contact](#Contact)
 
 ## Acceptance Criteria
