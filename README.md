@@ -82,8 +82,8 @@ https://book-search-engine-james.herokuapp.com/
 
 https://git.heroku.com/book-search-engine-james.git
 
-## MIT License
-&copy;2022 James Chukwu
+## COPY RIGHT
+2022 James Chukwu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
