@@ -2,15 +2,19 @@
 
 ## Description
 
-Refactor a fully functioning Google Books API search engine built with a RESTful API as a GraphQL API built with Apollo Server. The original app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It was already set up to allow users to save book searches to the back end.
+Develop a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.
 
-This assignment includes:
-1. Setting up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API,
-2. Modify the existing authentication middleware so that it works in the context of a GraphQL API,
-3. Creating an Apollo Provider so that requests can communicate with an Apollo Server, and
-4. Deploying the application to Heroku with a MongoDB database using MongoDB Atlas.
+Task to be completed:
+1. Set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
 
-## Table of Contents
+2. Modify the existing authentication middleware so that it works in the context of a GraphQL API.
+
+3. Create an Apollo Provider so that requests can communicate with an Apollo Server.
+
+4. Deploy the application to Heroku.
+
+
+## Contents
 - [Core Objectives Met](#Core)
 - [Technologies Utilized](#Technologies)
 - [Screenshot](#Screen) 
@@ -18,7 +22,7 @@ This assignment includes:
 - [License](#MIT)
 - [Contact](#Contact)
 
-## Core Objectives Met
+## Acceptance Criteria
 
 GIVEN a book search engine
 WHEN I load the search engine
@@ -52,7 +56,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 
 
-## Technologies Utilized
+## Technologies Used
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - [Heroku](https://www.heroku.com)
 - [NPM Apollo Client Package](https://www.npmjs.com/package/stripe)
