@@ -15,11 +15,11 @@ Task to be completed:
 
 
 ## Contents
-- [Core Objectives Met](#Core)
-- [Technologies Utilized](#Technologies)
+- [Task to be completed](#Task)
+- [Technologies Used](#Technologies)
 - [Screenshot](#Screen) 
 - [Deployed Application](#Deployed)
-- [License](#MIT)
+- [License](#Original)
 - [Contact](#Contact)
 
 ## Acceptance Criteria
@@ -57,6 +57,9 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 
 ## Technologies Used
+
+- [React-Router-Dom](https://www.npmjs.com/package/react-router-dom)
+- [React-Scripts](https://www.npmjs.com/package/react-scripts)
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - [Heroku](https://www.heroku.com)
 - [NPM Apollo Client Package](https://www.npmjs.com/package/stripe)
@@ -71,9 +74,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 - [NPM JWT-Decode Package](https://www.npmjs.com/package/jwt-decode)
 - [NPM React Package](https://www.npmjs.com/package/react)
 - [NPM React-Bootstrap](https://www.npmjs.com/package/react-bootstrap)
-- [React-Dom](https://www.npmjs.com/package/react-dom)
-- [React-Router-Dom](https://www.npmjs.com/package/react-router-dom)
-- [React-Scripts](https://www.npmjs.com/package/react-scripts)
+- [React-Dom](https://www.npmjs.
 
 ## Screenshot
 
