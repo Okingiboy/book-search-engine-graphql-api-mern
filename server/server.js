@@ -11,6 +11,8 @@ const { authMiddleware } = require('./utils/auth');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+const startServer = async () => {
+  // create a new Apollo server and pass in our schema data
 
 const server = new ApolloServer({
   typeDefs,
@@ -18,9 +20,20 @@ const server = new ApolloServer({
   context: authMiddleware,
 });
 
+// Start the Apollo server
+await server.start();
+
 server.applyMiddleware({ app });
 
-app.use(express.urlencoded({ extended: true }));
+// log where we can go to test our GQL API
+console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
+};
+
+// Initialize the Apollo server
+startServer();
+
+
+app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
 // if we're in production, serve client/build as static assets
@@ -37,5 +50,5 @@ app.get("/", (req, res) => {
 
 db.once('open', () => {
   app.listen(PORT, () => console.log(`🌍 Now listening on localhost:${PORT}`));
-  console.log(`GraphQL server ready at http://localhost:${PORT}${server.graphqlPath}`);
+ // console.log(`GraphQL server ready at http://localhost:${PORT}${server.graphqlPath}`);
 });
