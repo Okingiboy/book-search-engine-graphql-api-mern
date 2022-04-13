@@ -82,7 +82,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Deployed Application
 
-https://mighty-wave-68152.herokuapp.com/
+https://infinite-bayou-40381.herokuapp.com/
 
 
 https://book-search-engine-james.herokuapp.com/
