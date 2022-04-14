@@ -29,6 +29,11 @@ server.applyMiddleware({ app });
 console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
 };
 
+app.listen(PORT, () => {
+  console.log(`API server now on port ${PORT}!`);
+});
+
+
 // Initialize the Apollo server
 startServer();
 
