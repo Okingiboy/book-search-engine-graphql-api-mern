@@ -82,6 +82,10 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Deployed Application
 
+https://mysterious-falls-78296.herokuapp.com/
+
+https://git.heroku.com/mysterious-falls-78296.git
+
 https://infinite-bayou-40381.herokuapp.com/
 
 
