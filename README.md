@@ -84,19 +84,6 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 https://mysterious-falls-78296.herokuapp.com/
 
-https://git.heroku.com/mysterious-falls-78296.git
-
-https://infinite-bayou-40381.herokuapp.com/
-
-
-https://book-search-engine-james.herokuapp.com/
-
-https://git.heroku.com/book-search-engine-james.git
-
-http://localhost:3001/graphql
-
-
-
 
 ## COPY RIGHT
 2022 James Chukwu
