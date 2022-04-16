@@ -85,6 +85,9 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 https://pure-eyrie-09555.herokuapp.com/
 
 
+## Usage 
+This application will allow users to search for books either from the main author or publishers page. Users can then.<br>
+Please view deployed application on [Heroku]https://pure-eyrie-09555.herokuapp.com//)<br>
 
 ## COPY RIGHT
 2022 James Chukwu
