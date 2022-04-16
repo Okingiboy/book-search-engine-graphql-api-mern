@@ -82,6 +82,8 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Deployed Application
 
+https://pure-eyrie-09555.herokuapp.com/
+
 https://mysterious-falls-78296.herokuapp.com/
 
 
