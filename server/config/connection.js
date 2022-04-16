@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
  // useFindAndModify: false,
 //});
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost:27017/mysterious-falls-78296',
+  process.env.MONGODB_URI || 'mongodb://localhost:27017/pure-eyrie-09555',
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
